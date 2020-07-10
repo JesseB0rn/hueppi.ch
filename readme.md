@@ -10,4 +10,4 @@
 6. Apache & mysql neu starten.
 7. "http://localhost" öffnen.
 
-WordPress nutzer ist jesseb0rn, passowrt 12341234
+WordPress nutzer ist jesseb0rn, passowrt 12341234 
